@@ -56,3 +56,4 @@ stration software here: https://github.com/averyra35/CSE-310-Projects.git  in th
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+> It went pretty fast since it was just the hello world program, I pretty much did my research and started at the top with the def and down to the print statement and the call. Next time, it might be a different langauge so I could do more research for how to complete the project and start working on it.
